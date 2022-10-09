@@ -5147,7 +5147,7 @@
                                                 children: "web3.0 wallet application"
                                             }), Object(E.jsx)("h1", {
                                                 className: "section-title",
-                                                children: "JOKERsoft Portfolio view :)"
+                                                children: "JOKERsoft Portfolio :)"
                                             }), Object(E.jsx)(st, {
                                                 children: Object(E.jsx)(nt, {
                                                     children: "Exchange"
